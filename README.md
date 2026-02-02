@@ -41,7 +41,7 @@ Begin by installing the library via your preferred package manager, then follow 
 ## How To Usage?
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "github:argaxwyz/bails"
+  "@whiskeysockets/baileys": "github:argaxwyz/7Six"
 }
 ```
 ## Import
