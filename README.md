@@ -88,7 +88,7 @@ await sock.sendMessage(jid, {
             degreesLongitude: 0, 
             name: "rowrrrr" 
         }, 
-        joinLink: "https://call.whatsapp.com/video/yumevtc", 
+        joinLink: "https://chat.whatsapp.com/IMlHRUGfey31jYTIPUzPNq?mode=gi_t", 
         startTime: "1763019000", 
         endTime: "1763026200", 
         extraGuestsAllowed: false 
