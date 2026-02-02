@@ -1,13 +1,13 @@
 {
-    "name": "argaxwyz/bails",
+    "name": "argaxwyz/7Six",
     "version": "1.7.3",
     "description": "Have A Nice Day",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/argaxwyz/bails",
+    "homepage": "https://github.com/argaxwyz/7Six",
     "repository": {
-        "url": "https://github.com/argaxwyz/bails"
+        "url": "https://github.com/argaxwyz/7Six"
     },
     "license": "MIT",
     "author": "dilxzcoders",
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://argaxwyz/bails/issues"
+      "url": "https://argaxwyz/7Six/issues"
     }
     }
