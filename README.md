@@ -1,2 +1,0 @@
-# 7Six
-Bailyes Project
