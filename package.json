@@ -1,5 +1,5 @@
 {
-    "name": "@yumenative/baileys",
+    "name": "@argaxwyz/7Six",
     "version": "2.0.3",
     "description": "WhatsApp API Modification By K",
     "keywords": [
@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://www.npmjs.com/package/@stvnnvs/baileys",
+    "homepage": "https://www.npmjs.com/package/@argaxwyz/7Six",
     "repository": {
-        "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
+        "url": "https://www.npmjs.com/package/@argaxwyz/7Six"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "npm:@shennmine/libsignal-node",
+        "libsignal": "npm:@argaxwyz/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
